@@ -1,0 +1,16 @@
+% Encoding: UTF-8
+
+@Article{Steers2001,
+  author    = {William D. Steers},
+  title     = {5$\upalpha$-reductase activity in the prostate},
+  journal   = {Urology},
+  year      = {2001},
+  volume    = {58},
+  number    = {6},
+  pages     = {17--24},
+  month     = {dec},
+  doi       = {10.1016/s0090-4295(01)01299-7},
+  publisher = {Elsevier {BV}},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
